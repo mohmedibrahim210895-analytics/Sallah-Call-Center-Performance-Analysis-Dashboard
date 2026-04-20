@@ -40,4 +40,4 @@ This project presents an interactive dashboard built using Power BI to analyze c
 - Dataset (if applicable)
 
 ## 🔗 Author
-Mohamed Ibrahim
+Mohamed Ibrahim Hashem
